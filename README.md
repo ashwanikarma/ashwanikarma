@@ -1,4 +1,4 @@
-[![MasterHead](file:///C:/Users/ashwa/Downloads/Beige%20Green%20Modern%20Simple%20Study%20Blog%20YouTube%20Banner.jpg)](https://ashwanikarma.io)
+[![MasterHead](https://drive.google.com/file/d/1Gq9OuMO04JPl8CPNxsTLd0-j2nqxE-Kr/view?usp=sharing)](https://ashwanikarma.io)
 <h1 align="center">Hi 👋, I'm Ashwani Karma</h1>
 <h3 align="center">Passionate in Learning New Technologies</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
