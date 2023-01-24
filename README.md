@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwanikarma&label=Profile%20views&color=0e75b6&style=flat" alt="ashwanikarma" /> </p>
 
-- 🌱 I’m currently learning **.NET**
+- 🌱 I’m currently learning **.NET** framework and **C# language**
 
 - 📫 How to reach me **ashwanikarma9@gmail.com**
 
